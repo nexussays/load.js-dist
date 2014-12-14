@@ -1,13 +1,13 @@
 {
     "name": "load.js",
-    "version": "0.2.1",
+    "version": "0.3.0",
     "description": "A small, comprehensive script loader for Javascript and TypeScript",
     "homepage": "https://github.com/nexussays/load.js",
     "license": "MPL",
     "authors": [
         "Malachi Griffie <malachi@nexussays.com>"
     ],
-    "main": "dist/load.min.js",
+    "main": "load.min.js",
     "moduleType": [
         "amd",
         "globals",
